@@ -1,0 +1,70 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            UGG Women's Size Chart
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Here's a helpful conversion chart to find your correct shoe size. Please remember this is only a guide. Your
+            personal results may vary.
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff;">US/CAN</td>
+          <td style="color: #ffffff;">CM</td>
+          <td style="color: #ffffff;">INCH</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>25.0</td>
+          <td>9.8</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>26.0</td>
+          <td>10.2</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>26.5</td>
+          <td>10.4</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>27.0</td>
+          <td>10.6</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>28.0</td>
+          <td>11.0</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>29.0</td>
+          <td>11.4</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>30.0</td>
+          <td>11.8</td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>31.0</td>
+          <td>12.2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

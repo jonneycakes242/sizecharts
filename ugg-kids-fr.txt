@@ -1,0 +1,208 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Pointures UGG - Enfants
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Voici un guide utile pour vous aider &agrave; trouver votre pointure correcte. Veuillez noter que ce n&apos;est qu&apos;un guide. Vos r&eacute;sultats peuvent varier. 
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: transparent;">
+          <td style="font-size: 16px; font-family: 'open-sans-condensed-bold', sans-serif;">
+            B&eacute;b&eacute;ss' (3-24 Mois) Pointures
+          </td>
+        </tr>
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff;">&Eacute;.-U./CAN</td>
+          <td style="color: #ffffff;">CM</td>
+          <td style="color: #ffffff;">POUCE</td>
+        </tr>
+        <tr>
+          <td>0</td>
+          <td>8,0</td>
+          <td>3,2</td>
+        </tr>
+        <tr>
+          <td>0/1</td>
+          <td>8,5</td>
+          <td>3,4</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>8,5</td>
+          <td>3,4</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>9,5</td>
+          <td>3,7</td>
+        </tr>
+        <tr>
+          <td>2/3</td>
+          <td>10,5</td>
+          <td>4,1</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>10,5</td>
+          <td>4,1</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>11,5</td>
+          <td>4,5</td>
+        </tr>
+        <tr>
+          <td>4/5</td>
+          <td>12,5</td>
+          <td>4,9</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>12,5</td>
+          <td>4,9</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>13,0</td>
+          <td>5,1</td>
+        </tr>
+        <tr>
+          <td>6/7</td>
+          <td>14,5</td>
+          <td>5,7</td>
+        </tr>
+      </table>
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: transparent;">
+          <td style="font-size: 16px; font-family: 'open-sans-condensed-bold', sans-serif;">
+            Tout-petitss' (2-5 Ans) Pointures
+          </td>
+        </tr>
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff;">&Eacute;.-U./CAN</td>
+          <td style="color: #ffffff;">CM</td>
+          <td style="color: #ffffff;">POUCE</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>11,5</td>
+          <td>4,5</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>12,5</td>
+          <td>4,9</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>13,0</td>
+          <td>5,1</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>14,0</td>
+          <td>5,5</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>15,0</td>
+          <td>5,9</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>16,0</td>
+          <td>6,3</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>17,0</td>
+          <td>6,7</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>18,0</td>
+          <td>7,1</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>19,0</td>
+          <td>7,5</td>
+        </tr>
+      </table>
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: transparent;">
+          <td style="font-size: 16px; font-family: 'open-sans-condensed-bold', sans-serif;">
+            Grandes Enfantss' (5-12 Ans) Pointures
+          </td>
+        </tr>
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff;">&Eacute;.-U./CAN</td>
+          <td style="color: #ffffff;">CM</td>
+          <td style="color: #ffffff;">POUCE</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>17,0</td>
+          <td>6,7</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>18,0</td>
+          <td>7,1</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>19,0</td>
+          <td>7,5</td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>20,0</td>
+          <td>7,9</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>21,0</td>
+          <td>8,3</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>22,0</td>
+          <td>8,7</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>23,0</td>
+          <td>9,1</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>24,0</td>
+          <td>9,5</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>25,0</td>
+          <td>9,8</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>26,0</td>
+          <td>10,2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
