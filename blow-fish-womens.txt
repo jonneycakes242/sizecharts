@@ -1,0 +1,74 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Hey Dude Women's Size Chart
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Here's a helpful conversion chart to find your correct shoe size. Please remember this is only a guide. Your
+            personal results may vary.
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff; width: 50%;">US/CAN</td>
+          <td style="color: #ffffff; width: 50%;">EU</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>36 - 37</td>
+        </tr>
+
+        <tr>
+          <td>6.5</td>
+          <td>37</td>
+        </tr>
+
+        <tr>
+          <td>7</td>
+          <td>37 - 38</td>
+        </tr>
+
+        <tr>
+          <td>7.5</td>
+          <td>38</td>
+        </tr>
+
+        <tr>
+          <td>8</td>
+          <td>38-39</td>
+        </tr>
+
+        <tr>
+          <td>8.5</td>
+          <td>39</td>
+        </tr>
+
+        <tr>
+          <td>9</td>
+          <td>40 - 41</td>
+        </tr>
+
+        <tr>
+          <td>10</td>
+          <td>42</td>
+        </tr>
+
+        <tr>
+          <td>11</td>
+          <td>43</td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
