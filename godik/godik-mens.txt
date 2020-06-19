@@ -1,0 +1,69 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Godik Men's Size Chart
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Here's a helpful conversion chart to find your correct shoe size. Please remember this is only a guide. Your
+            personal results may vary.
+          </td>
+        </tr>
+      </table>
+ 
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff; width: 50%;">US/CAN</td>
+          <td style="color: #ffffff; width: 50%;">EU</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>40</td>
+        </tr>
+
+        <tr>
+          <td>8</td>
+          <td>41</td>
+        </tr>
+
+        <tr>
+          <td>8.5</td>
+          <td>42</td>
+        </tr>
+
+        <tr>
+          <td>9</td>
+          <td>43</td>
+        </tr>
+
+        <tr>
+          <td>10</td>
+          <td>44</td>
+        </tr>
+
+        <tr>
+          <td>11</td>
+          <td>45</td>
+        </tr>
+
+        <tr>
+          <td>12</td>
+          <td>46</td>
+        </tr>
+
+        <tr>
+          <td>13</td>
+          <td>47</td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>

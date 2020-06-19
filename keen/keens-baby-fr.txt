@@ -1,0 +1,53 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Pointures Keens - B&eacute;b&eacute;s
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Voici un guide utile pour vous aider &agrave; trouver votre pointure correcte. Veuillez noter que ce n&apos;est qu&apos;un guide. Vos r&eacute;sultats peuvent varier.
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff; width: 33.3%;">&Eacute;.-U./CAN</td>
+          <td style="color: #ffffff; width: 33.3%;">CM</td>
+          <td style="color: #ffffff; width: 33.3%;">POUCE</td>
+        </tr>
+        <tr>
+          <td>6M</td>
+          <td>9,5</td>
+          <td>3,74</td>
+        </tr>
+
+        <tr>
+          <td>12M</td>
+          <td>10,5</td>
+          <td>4,13</td>
+        </tr>
+
+        <tr>
+          <td>18M</td>
+          <td>11,4</td>
+          <td>4,48</td>
+        </tr>
+
+        <tr>
+          <td>24M</td>
+          <td>12,1</td>
+          <td>4,76</td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>

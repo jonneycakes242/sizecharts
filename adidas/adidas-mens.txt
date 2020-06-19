@@ -1,0 +1,120 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Adidas Mens's Size Chart
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Here's a helpful conversion chart to find your correct shoe size. Please remember this is only a guide. Your
+            personal results may vary.
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff; width: 33.3%;">US/CAN</td>
+          <td style="color: #ffffff; width: 33.3%;">CM</td>
+          <td style="color: #ffffff; width: 33.3%;">INCH</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>23.8</td>
+          <td>9.37</td>
+        </tr>
+
+        <tr>
+          <td>6.5</td>
+          <td>24.2</td>
+          <td>9.53</td>
+        </tr>
+
+        <tr>
+          <td>7</td>
+          <td>24.6</td>
+          <td>9.69</td>
+        </tr>
+
+        <tr>
+          <td>7.5</td>
+          <td>25</td>
+          <td>9.84</td>
+        </tr>
+
+        <tr>
+          <td>8</td>
+          <td>25.5</td>
+          <td>10.04</td>
+        </tr>
+
+        <tr>
+          <td>8.5</td>
+          <td>25.9</td>
+          <td>10.2</td>
+        </tr>
+
+        <tr>
+          <td>9</td>
+          <td>26.3</td>
+          <td>10.35</td>
+        </tr>
+
+        <tr>
+          <td>9.5</td>
+          <td>26.7</td>
+          <td>10.51</td>
+        </tr>
+
+        <tr>
+          <td>10</td>
+          <td>27.1</td>
+          <td>10.67</td>
+        </tr>
+
+        <tr>
+          <td>10.5</td>
+          <td>27.6</td>
+          <td>10.87</td>
+        </tr>
+
+        <tr>
+          <td>11</td>
+          <td>28</td>
+          <td>11.02</td>
+        </tr>
+
+        <tr>
+          <td>11.5</td>
+          <td>28.4</td>
+          <td>11.18</td>
+        </tr>
+
+        <tr>
+          <td>12</td>
+          <td>28.8</td>
+          <td>11.34</td>
+        </tr>
+
+        <tr>
+          <td>12.5</td>
+          <td>29.3</td>
+          <td>11.54</td>
+        </tr>
+
+        <tr>
+          <td>13</td>
+          <td>29.7</td>
+          <td>11.69</td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>

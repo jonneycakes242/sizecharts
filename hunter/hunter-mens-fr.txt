@@ -1,0 +1,91 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Pointures Hunter - Hommes
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Voici un guide utile pour vous aider &agrave; trouver votre pointure correcte. Veuillez noter que ce
+            n&apos;est qu&apos;un guide. Vos r&eacute;sultats peuvent varier.
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff; width: 20%;">&Eacute;.-U./CAN</td>
+          <td style="color: #ffffff; width: 20%;">EU</td>
+          <td style="color: #ffffff; width: 20%;">UK</td>
+          <td style="color: #ffffff; width: 20%;">CM – Semelle</td>
+          <td style="color: #ffffff; width: 20%;">POUCE - Semelle</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>39</td>
+          <td>6</td>
+          <td>25,9</td>
+          <td>10,19</td>
+        </tr>
+
+        <tr>
+          <td>8</td>
+          <td>40/41</td>
+          <td>7</td>
+          <td>26,7</td>
+          <td>10,51</td>
+        </tr>
+
+        <tr>
+          <td>9</td>
+          <td>42</td>
+          <td>8</td>
+          <td>27,6</td>
+          <td>10,86</td>
+        </tr>
+
+        <tr>
+          <td>10</td>
+          <td>43</td>
+          <td>9</td>
+          <td>28,4</td>
+          <td>11,18</td>
+        </tr>
+
+        <tr>
+          <td>11</td>
+          <td>44</td>
+          <td>10</td>
+          <td>29,2</td>
+          <td>11,49</td>
+        </tr>
+
+        <tr>
+          <td>12</td>
+          <td>45/46</td>
+          <td>11</td>
+          <td>30,1</td>
+          <td>11,85</td>
+        </tr>
+
+        <tr>
+          <td>13</td>
+          <td>47</td>
+          <td>12</td>
+          <td>30,9</td>
+          <td>12,16</td>
+        </tr>
+
+        
+
+  
+      </table>
+    </td>
+  </tr>
+</table>

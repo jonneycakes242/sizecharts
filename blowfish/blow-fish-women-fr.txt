@@ -1,0 +1,83 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Pointures Blow Fish - Femmes
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Voici un guide utile pour vous aider &agrave; trouver votre pointure correcte. Veuillez noter que ce n&apos;est qu&apos;un guide. Vos r&eacute;sultats peuvent varier.
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff; width: 50%;">&Eacute;.-U./CAN</td>
+          <td style="color: #ffffff; width: 50%;">UE</td>
+        </tr>
+        <tr>
+          <td>5,5</td>
+          <td>23,2</td>
+        </tr>
+
+        <tr>
+          <td>6</td>
+          <td>23,6</td>
+        </tr>
+
+        <tr>
+          <td>6,5</td>
+          <td>24</td>
+        </tr>
+
+        <tr>
+          <td>7</td>
+          <td>24,4</td>
+        </tr>
+
+        <tr>
+          <td>7,5</td>
+          <td>24,8</td>
+        </tr>
+
+        <tr>
+          <td>8</td>
+          <td>25,2</td>
+        </tr>
+
+        <tr>
+          <td>8,5</td>
+          <td>25,6</td>
+        </tr>
+
+        <tr>
+          <td>9</td>
+          <td>26</td>
+        </tr>
+
+        <tr>
+          <td>9,5</td>
+          <td>26,4</td>
+        </tr>
+
+        <tr>
+          <td>10</td>
+          <td>26,8</td>
+        </tr>
+
+        <tr>
+          <td>11</td>
+          <td>27,6</td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>

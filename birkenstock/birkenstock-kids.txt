@@ -1,0 +1,120 @@
+<table>
+  <tr>
+    <td>
+      <table>
+        <!-- Heading -->
+        <tr>
+          <td
+            style="font-size: 18px; font-family: 'open-sans-condensed-bold', sans-serif; text-transform: uppercase; padding: 0;">
+            Birkenstock Kids' Size Chart
+          </td>
+        </tr>
+        <!-- Disclaimer -->
+        <tr style="background-color: transparent;">
+          <td style="padding: 0 0 16px 0;">
+            Here's a helpful conversion chart to find your correct shoe size. Please remember this is only a guide. Your
+            personal results may vary.
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" style="border: 1px #ddd solid; margin-bottom: 1rem;">
+        <tr style="background-color: #333333; color: #ffffff;">
+          <td style="color: #ffffff; width: 20%;">US/CAN</td>
+          <td style="color: #ffffff; width: 20%;">EU</td>
+          <td style="color: #ffffff; width: 20%;">UK</td>
+          <td style="color: #ffffff; width: 20%;">CM</td>
+          <td style="color: #ffffff; width: 20%;">INCH</td>
+        </tr>
+        <tr>
+          <td>6-6.5</td>
+          <td>24</td>
+          <td>7</td>
+          <td>15</td>
+          <td>5.91</td>
+        </tr>
+
+        <tr>
+          <td>7-7.5</td>
+          <td>25</td>
+          <td>8</td>
+          <td>16</td>
+          <td>6.3</td>
+        </tr>
+
+        <tr>
+          <td>8-8.5</td>
+          <td>26</td>
+          <td>8.5</td>
+          <td>16.5</td>
+          <td>6.5</td>
+        </tr>
+
+        <tr>
+          <td>9-9.5</td>
+          <td>27</td>
+          <td>9</td>
+          <td>17</td>
+          <td>6.69</td>
+        </tr>
+
+        <tr>
+          <td>10-10.5</td>
+          <td>28</td>
+          <td>10</td>
+          <td>18</td>
+          <td>7.09</td>
+        </tr>
+
+        <tr>
+          <td>11-11.5</td>
+          <td>29</td>
+          <td>11</td>
+          <td>18.5</td>
+          <td>7.28</td>
+        </tr>
+
+        <tr>
+          <td>12-12.5</td>
+          <td>30</td>
+          <td>11.5</td>
+          <td>19</td>
+          <td>7.48</td>
+        </tr>
+
+        <tr>
+          <td>13-13.5</td>
+          <td>31</td>
+          <td>13</td>
+          <td>20</td>
+          <td>7.87</td>
+        </tr>
+
+        <tr>
+          <td>1-1.5</td>
+          <td>32</td>
+          <td>13.5</td>
+          <td>20.5</td>
+          <td>8.07</td>
+        </tr>
+
+        <tr>
+          <td>2-2.5</td>
+          <td>33</td>
+          <td>1</td>
+          <td>21</td>
+          <td>8.27</td>
+        </tr>
+
+        <tr>
+          <td>3-3.5</td>
+          <td>34</td>
+          <td>2</td>
+          <td>22</td>
+          <td>8.66</td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
